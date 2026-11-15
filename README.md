@@ -254,3 +254,4 @@ MAIN MENU
 | **SMOKE DETECTED!** | "⚠ SMOKE DETECTED! \| SELECT = Mute" |
 
 > **Alarm Acknowledge:** Emergency mein SELECT dabao → Buzzer band, OLED monitoring jari rakhta hai.
+Updated project using VS Code.
